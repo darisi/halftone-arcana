@@ -1,0 +1,979 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "Major Arcana card meanings",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "source": "https://www.drawatarotcard.com",
+  "cards": [
+    {
+      "number": 0,
+      "name": "The Fool",
+      "slug": "the-fool",
+      "summary": "New beginnings, a leap of faith, trusting the unknown.",
+      "keywords": {
+        "upright": [
+          "new beginnings",
+          "spontaneity",
+          "a leap of faith",
+          "innocence"
+        ],
+        "reversed": [
+          "recklessness",
+          "hesitation",
+          "poor judgement",
+          "fear of starting"
+        ]
+      },
+      "upright": [
+        "The Fool is card zero, the one that sits outside the numbered sequence and then walks into it. Upright, it marks the start of something whose outcome you cannot see yet: a move, a new job, a relationship, a project you have no track record in. The card is not saying the leap is safe. It is saying the leap is worth taking, and that the part of you insisting on a guarantee first is the part holding you back.",
+        "There is a lightness to this card that is easy to mistake for naivety. The Fool travels light because the old baggage no longer fits the road ahead. If it turns up while you are sitting on a decision, it usually points toward saying yes, starting before you feel ready, and treating early mistakes as tuition rather than proof you should never have tried.",
+        "The Fool also carries a kind of trust — in the process, in your ability to figure things out on the way, in the idea that not every step needs a plan. That trust is not the same as carelessness. It is choosing curiosity over fear when both are available."
+      ],
+      "reversed": [
+        "Reversed, the same energy tips one of two ways. Sometimes it becomes recklessness: jumping without looking, ignoring good advice because it spoils the mood, or chasing novelty to avoid finishing something. Other times it turns inward and becomes paralysis, where you can see the edge clearly and keep finding new reasons not to step off.",
+        "Ask which of the two sounds more like you right now. If you are rushing, the reversed Fool asks for one honest look at the risks before you go. If you are stalling, it points out that waiting for certainty is itself a choice, and usually not the one you will be glad of later."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Fool favours beginnings, so it reads as a yes to starting, trying, or accepting an invitation. The yes comes without guarantees: go ahead, but go with your eyes open. Reversed, it softens to “not like this” — the idea may be sound while the timing or the plan is not."
+      },
+      "love": [
+        "If you are single, The Fool suggests meeting people without a script: a connection that starts somewhere unexpected, or a willingness to date outside your usual type. It favours curiosity over strategy and a light touch over a checklist.",
+        "In a relationship, it can point to a fresh chapter — moving in, travelling together, or simply bringing play back into something that has become routine. Reversed, watch for one partner avoiding commitment by keeping everything permanently casual."
+      ],
+      "career": [
+        "At work, The Fool shows up around new roles, career changes, first businesses and side projects that might become more. It is encouraging about learning on the job and much less keen on waiting until you have every qualification.",
+        "With money, the card is optimistic but not careful. A calculated risk can pay off; an impulsive one probably will not. If you are about to spend or invest, the upright Fool says go, and the reversed Fool says check the numbers first."
+      ],
+      "advice": "Take the first step before you have the whole route planned. Keep enough caution to notice the cliff edge, but not so much that you never leave the house. The start will teach you more than any amount of preparation.",
+      "artworkDescription": "A barefoot woman in a coral robe steps off a teal cliff edge, face tipped up toward a huge golden sun drawn with a sleeping face. A spotted white dog jumps at her heels and she holds a single white rose. Zodiac glyphs drift in the mist below. Unlike the classic image, this Fool is a woman and carries no bundle or staff.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 1,
+      "name": "The Magician",
+      "slug": "the-magician",
+      "summary": "Manifestation, resourcefulness, having what you need to start.",
+      "keywords": {
+        "upright": [
+          "manifestation",
+          "skill",
+          "resourcefulness",
+          "focused will"
+        ],
+        "reversed": [
+          "manipulation",
+          "untapped potential",
+          "scattered energy",
+          "trickery"
+        ]
+      },
+      "upright": [
+        "The Magician is the first numbered card, and where The Fool has potential, The Magician has tools. The traditional image lays out all four suits on a table — cup, pentacle, sword, wand — which is the card’s whole point: you already have what you need to begin. The missing ingredient is not resources but a decision to direct them at one thing.",
+        "This is a card about turning intention into action. It often appears when an idea has been circling for a while and the conditions are finally right to make it real. Skill matters here, and so does concentration. The Magician gets results by aiming everything in the same direction, not by waiting for inspiration or permission.",
+        "It can also describe a person: someone persuasive, capable and quick, who seems to make things happen by force of focus. If that person is you, the card is a nudge to stop underselling what you can do."
+      ],
+      "reversed": [
+        "Reversed, the tools are still on the table but they are being misused or ignored. The most common reading is scattered energy — lots of starts, no follow-through, talent spread so thin it never adds up to anything. The fix is usually unglamorous: pick one project and finish it.",
+        "The darker reading is manipulation. The same charm that builds things can be used to spin a story, oversell or con. The reversed Magician asks you to check whether someone around you is all pitch and no substance — or whether you are the one pitching to cover a gap."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Magician is a confident yes, specifically a yes that depends on you acting. It does not promise things will fall into your lap; it says you have the means to make them happen. Reversed, the answer leans toward no until the plan is clearer and the motives are clean."
+      },
+      "love": [
+        "For someone single, The Magician points to attraction built on chemistry and conversation — someone who knows exactly what to say. It also suggests you can be more deliberate about what you want instead of waiting to be chosen.",
+        "Between partners, the card favours actively building the life you want together rather than drifting. Reversed, it is a caution about charm without follow-through: flattery, grand promises, and very little that changes once the initial spark fades."
+      ],
+      "career": [
+        "Professionally this is one of the strongest cards in the deck. It suits launches, pitches, interviews, negotiations and any work where skill and presentation decide the outcome. If you have been waiting to ask for a raise or start the business, the timing is on your side.",
+        "Financially, The Magician rewards resourcefulness — using what you already have, charging for a skill, making a budget work harder. Reversed, be wary of schemes that sound too clever, and of spreading money across so many ideas that none of them is funded properly."
+      ],
+      "advice": "Stop gathering tools and use the ones in front of you. Choose one outcome, commit your attention to it, and do something today that moves it forward. Confidence comes from doing, not the other way round.",
+      "artworkDescription": "Behind a wooden table holding a cup, sword, wand and pentacle, a dark-haired figure in a white robe with a red sash raises one arm toward a golden infinity symbol while the other hand points down. Red roses and yellow lilies grow at their feet under a starry navy sky, a night setting in place of the classic daytime garden.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 2,
+      "name": "The High Priestess",
+      "slug": "the-high-priestess",
+      "summary": "Intuition, quiet knowing, answers that surface without force.",
+      "keywords": {
+        "upright": [
+          "intuition",
+          "inner knowing",
+          "the subconscious",
+          "mystery"
+        ],
+        "reversed": [
+          "ignored instincts",
+          "secrets",
+          "disconnection",
+          "surface thinking"
+        ]
+      },
+      "upright": [
+        "In the traditional image, The High Priestess sits between a dark pillar and a light one, guarding a veil. She does not act, argue or explain. Her card is about the kind of knowledge that arrives quietly — a hunch you cannot fully justify, a dream that stays with you, the sense that something is off before you have the evidence.",
+        "When she appears, the answer you are looking for is probably not out there in more research or more opinions. It is already in you, underneath the noise. The card asks for stillness: fewer inputs, more listening, and a willingness to let a situation reveal itself instead of forcing a conclusion.",
+        "She also stands for things not yet disclosed. Information may be incomplete, and some of it may be held back, whether by circumstance or by someone who is not ready to speak. Patience here is not passivity; it is refusing to decide on half the picture."
+      ],
+      "reversed": [
+        "Reversed, the line to that inner voice is jammed. You may be overriding your instincts because they are inconvenient, or drowning them in other people’s advice until you no longer know what you think. The reversed High Priestess often shows up as a vague unease you keep explaining away.",
+        "It can also point to secrets surfacing, or to something kept hidden that is doing damage by staying hidden. Either way the remedy is the same: make space to hear yourself, and take seriously the thing you already suspect."
+      ],
+      "yesNo": {
+        "answer": "Maybe",
+        "why": "The High Priestess rarely gives a clean yes or no, because her point is that you do not have all the information yet. Treat her as “wait and listen.” If you already have a strong gut feeling about the question, she tends to side with it."
+      },
+      "love": [
+        "Single readers may be drawn to someone with depth and a little mystery — a person you feel you already know, or a connection that develops slowly and privately. Let it unfold instead of pushing for labels.",
+        "In a relationship, The High Priestess points to what is unsaid: feelings not yet voiced, needs not yet named. Reversed, it can indicate hidden information or emotional distance, and a conversation that is overdue."
+      ],
+      "career": [
+        "She favours research, strategy and roles that rely on judgement rather than volume. It is a good card for reading between the lines in a negotiation and for keeping your plans private until they are ready to show.",
+        "With money, the advice is discretion. Do not share financial plans widely, read the fine print closely, and trust the instinct that says a deal is not what it appears. Reversed, look for information you have skimmed past or been denied."
+      ],
+      "advice": "Get quiet before you decide. Put the phone down, sleep on it, write down what you actually feel. If the answer does not come yet, that is information too: it means the moment to act has not arrived.",
+      "artworkDescription": "Flanked by a black pillar and a white pillar, a seated woman with long dark hair wears a horned crown and a blue robe with a star pendant, a closed scroll resting in her lap. A tapestry patterned with moons and round medallions hangs behind the throne, and a golden crescent moon curves at her feet on a teal tiled floor.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 3,
+      "name": "The Empress",
+      "slug": "the-empress",
+      "summary": "Abundance, nurturing, creative work that is ready to grow.",
+      "keywords": {
+        "upright": [
+          "abundance",
+          "nurturing",
+          "creativity",
+          "fertility"
+        ],
+        "reversed": [
+          "creative block",
+          "dependence",
+          "self-neglect",
+          "smothering"
+        ]
+      },
+      "upright": [
+        "The Empress is the tarot’s picture of growth in full swing: a figure at ease in a field of ripe grain, surrounded by comfort. Her card is about things that flourish when they are cared for — gardens, children, projects, bodies, friendships. It is a card of plenty, but the plenty comes from tending, not luck.",
+        "Upright, she often signals a fertile period in the broad sense. Creative work flows, ideas take root, and effort put in now is likely to show visible results. She also calls attention to the senses and to pleasure without guilt: good food, rest, beauty, time outdoors. Those are not distractions from the work; they are what keeps it alive.",
+        "In some readings she is literal, pointing to pregnancy, parenthood or caring for someone. In others she is about how you care for yourself, and whether you give yourself the same patience you would give anything else you want to see grow."
+      ],
+      "reversed": [
+        "Reversed, the flow stalls. Creative block is common, as is the feeling of pouring energy into everyone else while your own reserves run dry. The reversed Empress can look a lot like burnout dressed up as generosity.",
+        "It can also describe care that has turned into control — holding a partner, a child or a project so closely that it has no room to grow on its own. The correction is to step back, refill your own tank, and trust that what you planted will not die if you look away for a moment."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Empress is a warm yes, particularly for anything involving growth, creativity, family or comfort. Things are likely to develop naturally if you give them time and care. Reversed, the answer is closer to “not yet” while something needs nurturing first."
+      },
+      "love": [
+        "When you are single, The Empress suggests you are at your most magnetic when you are comfortable in yourself, not when you are chasing. Connections that begin now tend to be affectionate and grounded.",
+        "For couples it is one of the most loving cards in the deck: warmth, sensuality, devotion and, for some, a growing family. Reversed, look at whether one person is doing all the emotional caretaking, or whether affection has slid into dependency."
+      ],
+      "career": [
+        "Professionally, The Empress favours creative fields, caring professions and any work that grows steadily rather than explosively. Projects started now have good soil. She is also a reminder that sustainable output depends on rest.",
+        "Financially, the card points to comfort and material security, usually earned through patient effort, and it is fine to enjoy what you have. Reversed, watch for overspending on comfort, or for neglecting the practical side of money while tending to everyone else’s needs."
+      ],
+      "advice": "Tend what you want to grow, and put yourself on that list. Make something, spend time outside, eat properly, rest without apologising. Abundance is a practice before it is a result.",
+      "artworkDescription": "Crowned with stars, a woman in a pink gown sits on a cushioned throne holding a golden sceptre, a heart-shaped shield marked with the Venus symbol beside her. Behind her, wheat fields, a waterfall and a pine forest stretch beneath a large yellow sun, and a stream curves through the grass at her feet.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 4,
+      "name": "The Emperor",
+      "slug": "the-emperor",
+      "summary": "Structure, authority, the stability that comes from clear limits.",
+      "keywords": {
+        "upright": [
+          "structure",
+          "authority",
+          "stability",
+          "leadership"
+        ],
+        "reversed": [
+          "rigidity",
+          "control",
+          "domination",
+          "lack of discipline"
+        ]
+      },
+      "upright": [
+        "The traditional Emperor sits on a stone throne carved with rams’ heads, armour under his robes, bare mountains behind him. Where The Empress grows things, The Emperor organises them. His card is about order: rules, plans, boundaries, and the steady leadership that lets everyone else get on with their work.",
+        "Upright, the card usually asks you to bring structure to something that has been running on good intentions. That can mean setting a schedule, drawing a boundary, taking responsibility for a decision nobody else will make, or simply acting like the adult in the room. Stability is not glamorous, but it is what lets anything last.",
+        "The Emperor can also represent an authority figure — a boss, a parent, an institution — or the part of you that knows how to lead. His strength is reliability. He does what he says he will do."
+      ],
+      "reversed": [
+        "Reversed, structure hardens into control. This is the manager who micromanages, the parent who cannot let go, the rule followed long after it stopped making sense. If the card points at someone else, it may be describing a power struggle; if it points at you, it may be asking what you fear would happen if you loosened your grip.",
+        "The opposite reading is also possible: no structure at all. Missed deadlines, no plan, nobody in charge. Either way, the task is to find the version of authority that protects rather than restricts."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Emperor is a firm yes, especially for questions about commitment, stability, leadership or long-term plans. It favours outcomes you work toward methodically. Reversed, the answer depends on whether control, or the lack of it, is what stands in the way."
+      },
+      "love": [
+        "Single, you may find yourself drawn to someone dependable and protective, or entering a phase where you know what you want and will not settle for less. Clear standards are attractive.",
+        "In a relationship, the card speaks to commitment and security: a partnership with solid foundations and shared plans. Reversed, look for control creeping in — one person making every decision, jealousy disguised as care, or rigid ideas about who does what."
+      ],
+      "career": [
+        "This is a strong card for promotions, management roles, running your own company and anything that requires discipline. It favours clear processes, formal agreements and doing things properly the first time.",
+        "With money, The Emperor is the budget, the savings plan and the long-term investment. It rewards consistency over cleverness. Reversed, beware of both penny-pinching control and careless mismanagement, and of employers or institutions that hold too much power over your finances."
+      ],
+      "advice": "Put a structure around the thing you care about. Write the plan, set the boundary, keep the commitment. Lead by being reliable, and loosen your grip wherever control has stopped doing its job.",
+      "artworkDescription": "Seated on a stone throne carved with ram heads, a dark-haired man in a crimson and orange robe holds a golden ankh in one hand and an orb in the other. Jagged red-orange mountains rise behind him above a thin stream at the base of the throne. Unlike the traditional bearded ruler, he is drawn young and clean-shaven.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 5,
+      "name": "The Hierophant",
+      "slug": "the-hierophant",
+      "summary": "Tradition, mentorship, wisdom passed down rather than invented.",
+      "keywords": {
+        "upright": [
+          "tradition",
+          "mentorship",
+          "shared beliefs",
+          "institutions"
+        ],
+        "reversed": [
+          "rebellion",
+          "nonconformity",
+          "outdated rules",
+          "questioning authority"
+        ]
+      },
+      "upright": [
+        "The Hierophant is traditionally shown as a religious teacher raising a hand in blessing over two kneeling followers. His card is about knowledge that is passed down: traditions, institutions, rituals, formal education, and the mentors who carry them. Not everything worth knowing has to be invented from scratch.",
+        "Upright, it often suggests learning from an established path rather than improvising. That might mean taking a course, finding a mentor, joining a community, following a proven method, or honouring a family or cultural tradition. There is real value in structures that have worked for a long time, even when they feel conservative.",
+        "The card also concerns belonging. Shared values and shared rituals connect people. If you have been going it alone, The Hierophant may be suggesting you find the group that speaks your language, and let people who have walked the road before you share what they learned."
+      ],
+      "reversed": [
+        "Reversed, the card questions the rules. Sometimes that is healthy: you have outgrown a belief system, an institution is no longer serving you, or a tradition is kept purely out of habit. The reversed Hierophant gives you permission to find your own way.",
+        "Sometimes it is a warning about rebelling for the sake of it. The useful question is whether a rule is still protecting something that matters. Keep what is true, and let go of what is merely inherited."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Hierophant leans yes when the question involves a conventional path — marriage, study, a formal agreement, doing things the established way. For unconventional plans it is more hesitant. Reversed, the answer tilts toward no, or toward doing it differently."
+      },
+      "love": [
+        "Single, you are likely to meet someone through shared values or familiar settings — a community, a class, friends of friends — and the relationship may follow a fairly traditional path.",
+        "For couples, the card is associated with commitment, marriage and the rituals that make a partnership official. Reversed, the relationship may not fit expectations, whether your family’s or your own, and you may need to define it on your own terms."
+      ],
+      "career": [
+        "The Hierophant favours established organisations, formal training, certifications and mentors. It is a good card for following procedure, joining a larger company, or working in education, law, faith or healthcare. Credentials earned now tend to open doors later, even when the process feels slow and formal.",
+        "Financially, it recommends conventional wisdom: steady saving, trusted institutions, advice from a qualified professional. Reversed, you may be questioning the standard approach to money, which can be smart as long as it is informed rather than simply contrarian."
+      ],
+      "advice": "Find someone who has done what you are trying to do and learn from them. Respect the structures that work. Then, once you understand the rules properly, decide which ones you still want to follow.",
+      "artworkDescription": "A robed figure in a tall triple crown and gold-and-orange vestments marked with a white cross raises one hand in blessing and grips a triple-barred staff with the other. Two acolytes in grey and white kneel before him on a tiled floor between grey pillars. The crossed gold keys, traditionally at his feet, float above his head here.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 6,
+      "name": "The Lovers",
+      "slug": "the-lovers",
+      "summary": "Union, choice, aligning a decision with what you actually value.",
+      "keywords": {
+        "upright": [
+          "love",
+          "union",
+          "choices",
+          "shared values"
+        ],
+        "reversed": [
+          "disharmony",
+          "misalignment",
+          "imbalance",
+          "avoiding a choice"
+        ]
+      },
+      "upright": [
+        "The traditional Lovers card shows two figures beneath an angel, and while it is the tarot’s most obvious love card, its older meaning is about choice. The card asks what you truly value and whether your decisions line up with it. Love, in this sense, is what happens when you choose something with your whole self.",
+        "Upright, it can describe a meaningful relationship, a deep attraction or a partnership of equals. It can equally describe a crossroads: two paths, two offers, two versions of your life, and the need to pick the honest one rather than the easy one. The card does not make the decision for you; it raises the stakes of making it consciously.",
+        "Harmony is the reward. When what you do matches what you believe, things feel settled, and the relationships around you tend to reflect that."
+      ],
+      "reversed": [
+        "Reversed, something is out of alignment. In a relationship that may be a clash of values, a breakdown in communication, or a connection where one person gives far more than the other. It can also point to temptation, or to choices made mainly to please someone else.",
+        "Outside love, the reversed Lovers often describes internal conflict — saying one thing and doing another, or avoiding a decision in the hope it will make itself. Naming what you actually want is usually the first step back."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Lovers is a yes, particularly for relationships and for choices that honour your values. If the question is “should I choose this?”, the card asks you to make sure the yes is wholehearted. Reversed, it is more of a no, or a sign the decision is being made for the wrong reasons."
+      },
+      "love": [
+        "For a single person, The Lovers points to a strong connection, often with someone who shares your values rather than just your interests. It can also mean you are about to decide what kind of relationship you really want.",
+        "With a partner, this is a card of deep attraction and mutual respect, sometimes a decision to commit further. Reversed, it flags imbalance, broken trust, or two people who want different futures and have not said so out loud."
+      ],
+      "career": [
+        "The Lovers often shows up at work around a significant choice: two job offers, a potential partnership, whether to stay or leave. Pick the option that fits your values, not just your CV. It is also favourable for business partnerships built on trust.",
+        "Financially, it suggests decisions shared with someone else — joint accounts, co-investments, pooled resources. Make sure both of you want the same outcome. Reversed, a disagreement about money or a lopsided partnership needs addressing before it grows."
+      ],
+      "advice": "Decide from your values, not your fears. Be honest with yourself about what you want, then be honest with the other people involved. A choice made with your whole heart is easier to live with, whatever happens next.",
+      "artworkDescription": "A winged, haloed angel floats before a large sun above a nude couple standing side by side, one hand raised and the other pointing down. Flames rise from a tree behind the woman and a golden serpent winds beneath an apple tree behind the man, echoing the Eden imagery of the classic card. The man is drawn with blue skin.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 7,
+      "name": "The Chariot",
+      "slug": "the-chariot",
+      "summary": "Momentum, determination, steering opposing forces in one direction.",
+      "keywords": {
+        "upright": [
+          "determination",
+          "willpower",
+          "momentum",
+          "victory"
+        ],
+        "reversed": [
+          "lack of direction",
+          "aggression",
+          "obstacles",
+          "loss of control"
+        ]
+      },
+      "upright": [
+        "The Chariot traditionally shows a driver pulled by two sphinxes, one black and one white, with no reins in sight. The creatures want to go in different directions, and the charioteer keeps them moving forward anyway. That is the card: progress achieved not by removing conflict but by mastering it.",
+        "Upright, it signals momentum. You have a goal, and the card says you can reach it if you keep your focus and your nerve. Obstacles are expected; they are the reason willpower is needed at all. The Chariot often appears when success depends more on discipline than talent — showing up, pushing through, and not being knocked off course by distraction or doubt.",
+        "It is also a card of movement in the literal sense, and sometimes points to travel, relocation or a new vehicle."
+      ],
+      "reversed": [
+        "Reversed, the chariot veers. The energy is there but the direction is not, so effort gets spent going in circles. You may be pushing hard in several directions at once, or letting other people steer. It can also look like aggression: trying to force an outcome through sheer stubbornness.",
+        "Sometimes it is simply a stalled stretch, with obstacles that feel bigger than your motivation. The fix is to stop, re-choose the destination, and get both horses pulling the same way before trying again."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Chariot is a strong yes, conditional on effort. It favours goals you actively pursue and challenges you are willing to meet head on. Reversed, the answer is no until you regain focus or control of the situation."
+      },
+      "love": [
+        "Single, The Chariot suggests going after what you want with confidence rather than waiting, and not letting past setbacks decide the next attempt. It can also mean other goals are your priority right now, which is fine if it is a choice.",
+        "In a relationship, it favours working through a challenge together and coming out stronger. Reversed, watch for a power struggle, one person dragging the relationship in their direction, or a couple that has lost a shared sense of where it is heading."
+      ],
+      "career": [
+        "Ambition and wins are the theme at work: competitive applications, targets hit, projects driven to completion. The Chariot rewards a clear goal and disciplined execution, and in a negotiation it favours holding firm.",
+        "With money, the card suggests progress earned through control — sticking to a plan, resisting impulse spending, pushing toward a savings target. Reversed, your finances may feel out of control, or you may be chasing money so hard that other parts of life suffer."
+      ],
+      "advice": "Choose your destination and commit to it. Expect resistance and keep going anyway. When you feel pulled in two directions, you do not need to eliminate either force; you need to decide where both of them are heading.",
+      "artworkDescription": "A dark-armoured figure wearing a laurel wreath stands in an open chariot beneath a starry canopy, holding a golden sceptre, with alchemical symbols on the breastplate. A black horse and a white horse pull the chariot on visible reins, a castle and town behind them. The classic card has a starry crown and two untethered sphinxes instead.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 8,
+      "name": "Strength",
+      "slug": "strength",
+      "summary": "Courage through patience, gentle power, mastery without force.",
+      "keywords": {
+        "upright": [
+          "courage",
+          "patience",
+          "compassion",
+          "inner strength"
+        ],
+        "reversed": [
+          "self-doubt",
+          "insecurity",
+          "raw emotion",
+          "low energy"
+        ]
+      },
+      "upright": [
+        "Strength traditionally shows a figure calmly holding a lion’s jaws with a gentle hand. It is a very different kind of power from The Chariot’s. This is the strength of patience, self-control and compassion — the kind that calms a situation instead of winning it.",
+        "Upright, the card says you have more resilience than you think. It often appears when you are dealing with something difficult: fear, anger, a demanding person, a long recovery, a habit you want to break. The way through is not suppression or brute effort but steady, kind persistence. You tame the lion by understanding it.",
+        "Strength also speaks to confidence that does not need to announce itself. Quiet courage, emotional maturity, and the ability to stay soft without becoming a pushover are all part of it.",
+        "Notice that the lion is not destroyed or chained. The wild energy stays; it is simply guided. Your passions, appetites and temper are not problems to eliminate but forces to work with, and the card suggests you are capable of doing exactly that without losing your warmth in the process."
+      ],
+      "reversed": [
+        "Reversed, the lion is winning. Self-doubt, anxiety or raw emotion may be running the show, and you might feel far less capable than you are. The reversed card can also point to anger leaking out in ways you later regret.",
+        "The answer is not to try harder to be tough. It is to be gentler with yourself, rebuild confidence in small steps, and deal with the underlying fear rather than only the behaviour it produces."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "Strength is a yes, particularly for questions that call for courage, patience or perseverance. It suggests you can handle what comes. Reversed, the answer is closer to maybe, depending on whether you can get doubt or emotion under control first."
+      },
+      "love": [
+        "If you are single, confidence is your best asset: showing up as yourself, calmly, without chasing or performing. Strength favours relationships that begin with genuine patience and kindness.",
+        "In a relationship, the card points to a partnership that weathers difficulty through understanding rather than conflict. Reversed, insecurity, jealousy or unspoken resentment may be straining things, and gentle honesty will do more than confrontation."
+      ],
+      "career": [
+        "Persistence and emotional intelligence carry the day: handling difficult colleagues gracefully, staying composed under pressure, leading by example. Progress may be gradual, but it is earned and it lasts.",
+        "Financially, the card rewards self-control — resisting impulse purchases, sticking to a long-term plan, not panicking in a downturn. Reversed, emotional spending and fear-driven money decisions are the things to watch."
+      ],
+      "advice": "Meet the difficult thing with patience rather than force. Speak kindly to yourself and to the people who test you. Real strength is staying steady and warm when it would be easier to snap.",
+      "artworkDescription": "Eyes closed beneath a floating infinity symbol, a woman in a white robe gently holds open the jaws of a large lion, her sleeve brushing its mane. The two stand together on teal ground scattered with small red flowers, against a plain starry night sky with nothing else in the scene.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 9,
+      "name": "The Hermit",
+      "slug": "the-hermit",
+      "summary": "Solitude, reflection, stepping back to find your own light.",
+      "keywords": {
+        "upright": [
+          "solitude",
+          "introspection",
+          "inner guidance",
+          "wisdom"
+        ],
+        "reversed": [
+          "isolation",
+          "loneliness",
+          "withdrawal",
+          "avoiding reflection"
+        ]
+      },
+      "upright": [
+        "The traditional Hermit stands alone on a mountain peak holding a lantern with a star inside it. He has left the crowd deliberately, not because he dislikes people but because some answers can only be found in quiet. The lantern lights a few steps at a time, which is all he needs.",
+        "Upright, the card is an invitation to step back. That might mean time alone, a break from your feeds, a long walk, a retreat, or simply cancelling plans so you can think. The Hermit usually appears when outside advice has stopped helping and the next step requires consulting yourself. It is a card of reflection, study and soul-searching.",
+        "The Hermit can also be a teacher or guide — someone who has already walked the path and can light the way for you, if you go looking for them. Asking for that kind of guidance does not contradict the card; it is the other half of the same search."
+      ],
+      "reversed": [
+        "Reversed, solitude has tipped into isolation. You may be withdrawing because it feels safer, cutting yourself off from people who could help, or feeling lonely rather than restored by time alone. The reversed Hermit asks whether your retreat is still serving you.",
+        "It can also point the other way: dodging reflection by staying constantly busy and surrounded by noise. Either extreme is worth noticing. A little quiet and a little connection are both part of the cure."
+      ],
+      "yesNo": {
+        "answer": "Maybe",
+        "why": "The Hermit leans toward “not yet.” It suggests taking time to reflect before committing, so it rarely gives a straightforward yes. If the question is whether you should step back or think it over, though, the answer is yes."
+      },
+      "love": [
+        "For someone single, this may be a season of focusing on yourself rather than seeking a partner, and understanding what you want will make the next relationship better. It can also mean attraction to someone thoughtful and private.",
+        "Within a relationship, the card may point to a need for space, individually or together, or a quiet phase of reflecting on where things are going. Reversed, watch for emotional withdrawal or loneliness inside the partnership."
+      ],
+      "career": [
+        "The Hermit favours deep work, research, independent projects and reconsidering your direction. It can indicate a sabbatical, a career rethink, or seeking out a mentor. It is not a networking card; it is a card for working out what you actually want.",
+        "Financially, the advice is careful and deliberate. Take time before big decisions, review your spending, and think long term. Reversed, avoidance can get expensive — do not ignore your finances just because you would rather not look."
+      ],
+      "advice": "Make time to be alone with the question. Turn off the input, walk, write, sit with it. You do not need the whole path lit up, only the next few steps.",
+      "artworkDescription": "A hooded figure in a grey robe stands on a snowy mountain peak, raising a lantern that holds a six-pointed star and leaning on a tall staff. A worn stone path winds down through teal ridges below a dark, star-flecked sky. The scene closely follows the traditional Hermit.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 10,
+      "name": "Wheel of Fortune",
+      "slug": "wheel-of-fortune",
+      "summary": "Cycles and turning points, luck shifting, change already in motion.",
+      "keywords": {
+        "upright": [
+          "change",
+          "cycles",
+          "fate",
+          "turning points"
+        ],
+        "reversed": [
+          "bad luck",
+          "resistance to change",
+          "setbacks",
+          "repeating patterns"
+        ]
+      },
+      "upright": [
+        "The traditional Wheel of Fortune is a great turning wheel with figures rising and falling around its rim. Its message is simple and a little humbling: things change. Circumstances rise and fall, luck comes and goes, and no situation, good or bad, stays exactly as it is.",
+        "Upright, the card usually signals a turn for the better, or a significant shift already under way. Opportunities may appear at unexpected moments. It can feel like fate or timing, something larger than your own effort pushing things along. The practical response is to notice the moment and move with it rather than clinging to how things were.",
+        "The Wheel also reminds you that cycles repeat. If a pattern keeps coming back around, it may be worth asking what it keeps trying to teach you. Spotting the pattern is often the first step to stepping off the wheel, or at least to riding it with your eyes open."
+      ],
+      "reversed": [
+        "Reversed, the wheel feels stuck, or turning against you. Setbacks, delays and bad luck are common readings. Often the frustration comes less from the change itself than from resisting it — holding on to a situation that has already moved on.",
+        "The reversed Wheel can also point to a repeating cycle you have the power to break. The helpful question is not “why does this keep happening to me?” but “which part of this can I change?”"
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Wheel of Fortune is generally a yes, particularly when the question involves change, luck or timing: circumstances are shifting in your favour. Reversed, it tends toward no, or toward a delay while the cycle turns."
+      },
+      "love": [
+        "Single, the Wheel suggests a chance meeting or an unexpected change in your love life, often when you are not looking. It can also mean someone from the past comes back around.",
+        "In a relationship, it often marks a turning point — a new phase, a big decision, a shift in how you relate. Reversed, it may point to a rough patch, old relationship patterns repeating, or resistance to a change that needs to happen."
+      ],
+      "career": [
+        "Unexpected opportunities, lucky breaks and good timing are all in play professionally. If something has been stagnant, it may be about to move. Stay flexible enough to say yes when the moment arrives.",
+        "Financially, luck may be on your side, but the wheel keeps turning: enjoy the upswing and plan for the dip. Reversed, expect some instability, and avoid betting on things outside your control."
+      ],
+      "advice": "Go with the change instead of fighting it. When luck turns your way, act on it. When it turns against you, remember that it will turn again, and put your energy into the part you can steer.",
+      "artworkDescription": "A large golden wheel with ornate spokes fills the card, topped by a blue sphinx holding a sword and circled on one side by a pink serpent. In the four corners an angel, an eagle, an ox and a lion, all winged, each read from an open book against a starry night sky. The traditional sphinx is stone-coloured rather than blue.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 11,
+      "name": "Justice",
+      "slug": "justice",
+      "summary": "Fairness, truth, consequences arriving in proportion to the cause.",
+      "keywords": {
+        "upright": [
+          "fairness",
+          "truth",
+          "cause and effect",
+          "accountability"
+        ],
+        "reversed": [
+          "injustice",
+          "dishonesty",
+          "avoiding accountability",
+          "bias"
+        ]
+      },
+      "upright": [
+        "Justice traditionally holds an upright sword in one hand and balanced scales in the other. The sword cuts through to the truth; the scales weigh both sides. The card is about fairness, clarity, and the principle that actions have consequences — which can be comforting or uncomfortable depending on what you have done.",
+        "Upright, it often signals that a situation will be resolved fairly, especially legal matters, contracts or disputes. More broadly, it asks you to look at things objectively, take responsibility for your part, and decide based on what is right rather than what is convenient. Justice rewards honesty and integrity.",
+        "It can also point to an important decision with lasting effects. Weigh it carefully; the outcome will reflect the care you put in. Justice favours slow, clear thinking over emotional reactions, so gather the facts, hear the other side out, and decide only when you could explain your reasoning to someone who disagrees."
+      ],
+      "reversed": [
+        "Reversed, the scales are off. You may be facing an unfair outcome, a biased decision, or a situation where someone is not being straight with you. It can also point inward, to avoiding accountability or telling yourself a convenient version of events.",
+        "The reversed card asks for honesty, starting with yourself. If you have been wronged, gather the facts and pursue a fair resolution. If you are the one in the wrong, owning it now is almost always cheaper than being found out later."
+      ],
+      "yesNo": {
+        "answer": "Maybe",
+        "why": "Justice is a neutral card: the answer depends on the fairness of what you are asking. If you have acted honestly and the situation is balanced, it leans yes. If not, expect the consequences to arrive. Reversed, it leans no."
+      },
+      "love": [
+        "If you are single, Justice points to relationships built on honesty and equality, and to a clear view of what you deserve. It can also mean learning from past relationships so you stop repeating the same mistakes.",
+        "For couples, the card favours balance, fairness and open communication, and it can mark a decision about commitment. Reversed, it may indicate unequal effort, dishonesty, or unresolved blame that needs to be dealt with."
+      ],
+      "career": [
+        "At work, Justice favours fair treatment, contracts, legal matters and decisions made on merit. It is a good card for negotiations and disputes if the facts are on your side, and integrity shown now will be noticed.",
+        "Financially, it suggests balance — settling debts, reviewing agreements, deciding with clear information. Legal and tax matters need careful handling. Reversed, watch for unfair terms or dishonesty in anything involving money."
+      ],
+      "advice": "Look at the situation as fairly as you can, including your own part in it. Tell the truth, take responsibility, and make the decision you could defend to anyone. Balance comes from honesty, not from hoping nobody notices.",
+      "artworkDescription": "A crowned figure with long dark hair sits on a stone throne between grey pillars, dressed in a crimson robe. They hold an upright sword in one hand and golden scales in the other, feet resting on a teal chequered floor, with coral clouds and a starry navy sky behind.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 12,
+      "name": "The Hanged Man",
+      "slug": "the-hanged-man",
+      "summary": "A deliberate pause, surrender, seeing the situation upside down.",
+      "keywords": {
+        "upright": [
+          "pause",
+          "surrender",
+          "new perspective",
+          "letting go"
+        ],
+        "reversed": [
+          "stalling",
+          "resistance",
+          "indecision",
+          "needless sacrifice"
+        ]
+      },
+      "upright": [
+        "The Hanged Man traditionally hangs upside down by one foot from a living tree, and his expression is calm, even serene. He is not being punished. He has chosen this position, and from it he sees the world differently. The card is about the value of a pause, and of letting go of control long enough to gain a new perspective.",
+        "Upright, it often appears when you are stuck and pushing harder is not working. The advice is counterintuitive: stop. Suspend action, look at the problem from another angle, and let the situation settle. What looks like a delay is sometimes exactly the time needed for a real insight to form.",
+        "The card can also point to sacrifice — giving something up in the short term for something more meaningful later. It is the kind of trade that looks like a loss from the outside and only makes sense once the new view has had time to settle."
+      ],
+      "reversed": [
+        "Reversed, the pause has turned into stagnation. You may be stalling, avoiding a decision, or waiting for things to change without doing anything to change them. It can also mean resisting a necessary surrender, holding on so tightly that you keep yourself stuck.",
+        "Another reading is sacrifice that is no longer worth making: giving too much, putting everyone else first, and getting nothing for it. The reversed Hanged Man asks whether your waiting has a purpose or has simply become comfortable."
+      ],
+      "yesNo": {
+        "answer": "Maybe",
+        "why": "The Hanged Man usually means “not yet.” The situation needs patience, and forcing an answer now is unlikely to help. Reversed, it leans no, especially if you are putting off a decision you already know you need to make."
+      },
+      "love": [
+        "Single, the card suggests pausing the search and looking at your patterns from a new angle. Letting go of a fixed idea of the ideal partner may open more doors than trying harder.",
+        "In a relationship, it may point to a period of waiting or uncertainty, or to one partner making sacrifices. It can be a good time to see things from the other person’s point of view. Reversed, watch for stagnation, or resentment building up from one-sided sacrifice."
+      ],
+      "career": [
+        "Expect a pause at work: a project on hold, a period of reflection, a decision best put off until you can see it clearly. It is a good moment to rethink a strategy rather than push ahead with the old one.",
+        "Financially, delay big decisions if you can. Look at your situation from a fresh perspective, and be willing to make short-term sacrifices for long-term gain. Reversed, beware of putting off money decisions indefinitely."
+      ],
+      "advice": "Stop pushing and look at the problem upside down. Let go of the outcome you are trying to force. The answer often arrives the moment you stop straining for it.",
+      "artworkDescription": "A person hangs upside down from a bare branch by one ankle, the other leg tucked behind, arms crossed over the chest rather than bound behind the back as on the classic card. Their eyes are closed and a golden halo glows behind their head against a starry navy sky, with a small hill, a tree and two gold coins below.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 13,
+      "name": "Death",
+      "slug": "death",
+      "summary": "Endings that clear space, transformation, releasing what is finished.",
+      "keywords": {
+        "upright": [
+          "endings",
+          "transformation",
+          "transition",
+          "release"
+        ],
+        "reversed": [
+          "resisting change",
+          "stagnation",
+          "fear of endings",
+          "holding on"
+        ]
+      },
+      "upright": [
+        "Death is the most feared card in the deck and one of the most misunderstood. It almost never means literal death. The traditional skeleton on a white horse stands for the end of a chapter: something that has run its course is finishing, and the ending makes room for something new.",
+        "Upright, the card points to transformation. A relationship, job, belief, habit or phase of life may be closing. That can be sad, and it can also be a relief. The card does not ask you to pretend the loss does not matter; it asks you to accept that the ending is real and let it do its work. You cannot start the next thing while still clinging to the last one.",
+        "Transitions like this are rarely comfortable, but they are how a life moves forward."
+      ],
+      "reversed": [
+        "Reversed, the ending is being resisted. You may be holding on to something that is clearly over — a relationship, a role, an identity — because letting go feels too frightening. The usual result is stagnation: nothing new can grow while the old thing still takes up the space.",
+        "It can also mean the change is happening slowly, in small steps. The reversed Death card asks you to look at what you already know needs to end, and to take the first step toward releasing it."
+      ],
+      "yesNo": {
+        "answer": "No",
+        "why": "Death usually leans no, in the sense that the situation as it currently stands is ending. It is, however, a yes to change, to closing a chapter or starting fresh. Reversed, it is a no, and a sign you may be fighting what needs to happen."
+      },
+      "love": [
+        "When you are single, Death suggests letting go of old patterns, past partners or outdated ideas about love so that something new can begin. It can also mark the end of a lonely stretch.",
+        "In a relationship, the card points to transformation. Sometimes that means an ending, but often it means the relationship is changing shape and leaving an old dynamic behind. Reversed, it may indicate clinging to something that has finished, or resisting a change you both need."
+      ],
+      "career": [
+        "Professionally, Death can mark the end of a job, a project or a career path, and the beginning of something different. It favours reinvention and moving on from roles you have outgrown.",
+        "Financially, an income stream or an old way of managing money may be ending. Look at what needs to go — a habit, a failing investment, a subscription you no longer use. Reversed, holding on to something unsustainable out of fear will cost more in the long run."
+      ],
+      "advice": "Let it end. Grieve if you need to, but stop keeping the old thing on life support. Whatever is finished has already given you what it could, and the space it leaves is where the next chapter starts.",
+      "artworkDescription": "A skeletal rider in black armour on a black horse carries a dark banner marked with a white rose, held like a lance. A fallen king in a red robe lies beneath the hooves, his gold crown knocked loose, against a pink sky, a teal river and distant cathedral spires. The bishop, child and maiden of the classic card are absent, and the traditional horse is white.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 14,
+      "name": "Temperance",
+      "slug": "temperance",
+      "summary": "Balance, moderation, blending extremes into something workable.",
+      "keywords": {
+        "upright": [
+          "balance",
+          "moderation",
+          "patience",
+          "harmony"
+        ],
+        "reversed": [
+          "imbalance",
+          "excess",
+          "impatience",
+          "conflict"
+        ]
+      },
+      "upright": [
+        "Temperance traditionally shows an angel with one foot in water and one on land, pouring liquid between two cups in a continuous, measured flow. The card is about balance and moderation: finding the middle path, blending opposing forces, and taking the time needed to get the mix right.",
+        "Upright, it often appears after a period of extremes and suggests it is time to restore equilibrium. It favours patience, calm and a steady approach over dramatic moves. Temperance can also describe healing — physical, emotional or between people — that happens gradually through consistent care rather than a single breakthrough.",
+        "There is a creative side too: combining ideas, people or approaches into something that works better than any of them would alone. Patience, compromise and small adjustments can turn mismatched ingredients into something that holds. If you have been swinging between all and nothing, this card is a sign that the steady middle is where the progress is."
+      ],
+      "reversed": [
+        "Reversed, the balance is off. Excess is common — too much work, too much spending, too much of anything — as is impatience with a process that simply needs time. It can also point to friction between people, or between parts of your life that are not blending well.",
+        "The reversed card asks you to notice where you have gone to an extreme and bring things back toward the centre. Small adjustments made consistently usually work better than a dramatic overcorrection."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "Temperance is a gentle yes that favours outcomes reached through patience and moderation. Things should work out if you take a balanced approach and do not rush. Reversed, it leans no until the balance is restored."
+      },
+      "love": [
+        "Single, you may find a calm, balanced approach to dating suits you best right now, and that a connection grows gradually. The card often signals emotional readiness for something healthy.",
+        "For couples, it points to harmony, compromise and partners who complement each other, and it favours patience through challenges. Reversed, look for imbalance — one person giving more, arguments that escalate, or a shortage of compromise."
+      ],
+      "career": [
+        "Collaboration, steady progress and a sustainable pace are favoured at work. It is a good card for mediating a conflict or juggling competing demands, and a reminder to keep work and rest in proportion before burnout decides for you.",
+        "Financially, it recommends moderation: a balanced budget, spreading your risk, and avoiding extremes of either spending or hoarding. Reversed, overspending or impulsive decisions may be tipping things out of balance."
+      ],
+      "advice": "Look for the middle path. Slow down, blend what seems opposed, and give the process the time it needs. Balance is not a place you reach once; it is something you keep adjusting.",
+      "artworkDescription": "Eyes closed and hair loose over a white robe tied with a gold sash, a winged figure pours turquoise liquid between a gold cup and a silver cup, a glowing triangle on their forehead. Purple-and-gold wings spread behind them as one foot rests on land and the other touches a pool, with mountains and a rising sun beyond.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 15,
+      "name": "The Devil",
+      "slug": "the-devil",
+      "summary": "Attachment, limitation, a bind that is tighter in the mind than in fact.",
+      "keywords": {
+        "upright": [
+          "attachment",
+          "addiction",
+          "restriction",
+          "materialism"
+        ],
+        "reversed": [
+          "release",
+          "breaking free",
+          "reclaiming power",
+          "detachment"
+        ]
+      },
+      "upright": [
+        "The traditional Devil card shows two figures chained to a pedestal beneath a horned figure. Look closely and the chains are loose; the figures could lift them off. That detail is the meaning: many of the things that bind us — habits, fears, unhealthy relationships, compulsions — hold us partly because we let them.",
+        "Upright, the card points to an attachment that has become limiting. It might be addiction, obsession, materialism, a toxic relationship, or a belief that you have no options. The Devil also represents temptation, and short-term gratification that costs more than it gives. It is not a card of judgement; it is a card of awareness.",
+        "Once you can see the chain clearly, you can start taking it off. That usually begins with an honest inventory: what you keep returning to even though it costs you, what you tell yourself you cannot live without, and who benefits from you believing you have no choice."
+      ],
+      "reversed": [
+        "Reversed, the chains are coming off. You may be breaking a bad habit, leaving an unhealthy situation, or taking back control from something that had power over you. It is often a card of relief and recovery.",
+        "It can also indicate noticing a pattern for the first time, which is the necessary first step. Occasionally the reversed Devil points to a relapse or a hidden struggle, so be honest with yourself about which direction you are moving."
+      ],
+      "yesNo": {
+        "answer": "No",
+        "why": "The Devil is generally a no, especially if the question involves temptation, an unhealthy situation, or something you already suspect is not good for you. Reversed, it turns more positive: a yes to breaking free."
+      },
+      "love": [
+        "For a single person, The Devil may point to intense attraction that is more about lust or obsession than compatibility, or to a pattern that keeps drawing you toward the wrong person. Seeing the pattern is the first step.",
+        "In a relationship, the card can mean strong chemistry but also codependency, jealousy, control, or staying out of fear. Reversed, it suggests release — leaving an unhealthy dynamic, or rebuilding the relationship on healthier terms."
+      ],
+      "career": [
+        "The Devil can describe feeling trapped in a job for the money, a toxic workplace, or overwork driven by fear of what happens if you stop. It asks whether the golden handcuffs are really locked.",
+        "Financially, it warns against debt, impulse spending, gambling, and letting money dictate every choice. Reversed, you may be climbing out of debt or getting free of a financial trap."
+      ],
+      "advice": "Name the thing that has a hold on you. Look at the chain honestly: it is probably looser than it feels. Take one concrete step toward freedom, however small, and ask for help if you need it.",
+      "artworkDescription": "A muscular black silhouette with ram horns, bat wings and a pentagram between the brows sits on a stone block holding a lit torch. Two smaller figures, one in a pink dress and one in a teal tunic, are chained by the neck to the block. Small flames flicker above their heads in place of the tails shown on the traditional card.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 16,
+      "name": "The Tower",
+      "slug": "the-tower",
+      "summary": "Sudden upheaval, revelation, a structure falling because it was false.",
+      "keywords": {
+        "upright": [
+          "sudden change",
+          "upheaval",
+          "revelation",
+          "awakening"
+        ],
+        "reversed": [
+          "averted disaster",
+          "fear of change",
+          "delayed collapse",
+          "inner upheaval"
+        ]
+      },
+      "upright": [
+        "The Tower shows a tall structure struck by lightning, flames bursting from its windows and figures falling. It is the most dramatic card in the deck, and its meaning is dramatic too: sudden, unexpected change that shakes things to the foundations. What falls is usually something built on a false premise.",
+        "Upright, the card can describe a shock — a lost job, a breakup, a revelation, or a sudden realisation that changes how you see everything. It is rarely comfortable. But The Tower clears away illusions and structures that could not have lasted anyway, and once the dust settles you can build on something more honest.",
+        "The best response is not to cling to the falling bricks. Let it come down, and pay attention to what the collapse revealed. Looking back, a Tower moment is often the point where things started to fit, even if it did not feel that way at the time."
+      ],
+      "reversed": [
+        "Reversed, the upheaval may be avoided, delayed, or happening on the inside. You may sense that something needs to fall and be doing everything you can to prop it up. That can buy time, but it rarely prevents the collapse.",
+        "The reversed Tower can also describe a private transformation — a shift in beliefs or identity — rather than a public crisis. Either way, resisting the change tends to drag out the discomfort."
+      ],
+      "yesNo": {
+        "answer": "No",
+        "why": "The Tower is a no, particularly for plans that depend on the current situation staying as it is. Change is coming whether you want it or not. Reversed, it is still a no, or a warning that avoiding the problem will not make it go away."
+      },
+      "love": [
+        "Single, The Tower may shake up your ideas about love: a sudden attraction, a revelation about a past relationship, or the end of a pattern that was never working.",
+        "For couples, the card often indicates a crisis, argument or revelation that tests the foundations. Some relationships do not survive it; others are rebuilt on more honest terms. Reversed, it may point to a necessary conflict being avoided, or a slow-burning problem nobody is naming."
+      ],
+      "career": [
+        "Sudden change at work is likely — restructuring, a lost role, a failed project, or the realisation that you are on the wrong path. Difficult as it is, it often clears the way for something better suited to you.",
+        "Financially, expect the unexpected. Build a buffer, avoid risky bets, and do not assume stability. Reversed, you may narrowly avoid a financial crisis, but the underlying problem still needs attention."
+      ],
+      "advice": "When things fall apart, let them. Do not waste energy defending what cannot stand. Look at what the collapse revealed, keep what is true, and start rebuilding on firmer ground.",
+      "artworkDescription": "A grey stone tower burns against a navy night sky, split at its battlements by a yellow lightning bolt. Flames pour from the windows, two small figures fall, one in red and one in blue, and golden orbs drop like embers. Sharp teal crystal mountains rise on the right. The crown knocked from the top in the classic image is absent.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 17,
+      "name": "The Star",
+      "slug": "the-star",
+      "summary": "Hope, renewal, quiet guidance after a difficult stretch.",
+      "keywords": {
+        "upright": [
+          "hope",
+          "renewal",
+          "inspiration",
+          "serenity"
+        ],
+        "reversed": [
+          "despair",
+          "disconnection",
+          "lost faith",
+          "discouragement"
+        ]
+      },
+      "upright": [
+        "The Star follows The Tower, and the placement matters. After the upheaval comes calm: in the traditional image a figure kneels by a pool beneath a bright star, pouring water onto the land and back into the pool. The card is about hope, healing, and the quiet sense that things will be all right.",
+        "Upright, it often appears after a hard stretch, signalling renewal and the return of optimism. It favours rest, recovery and reconnecting with whatever inspires you. The Star is also about faith in the future — not blind optimism, but a steady belief that your efforts are leading somewhere good.",
+        "It is a generous card, too: a reminder to share what you are good at, and to be open and unguarded about who you are.",
+        "Healing under The Star is rarely fast. It is more like water slowly returning to dry ground, and the card asks you to trust that gradual process instead of demanding a full recovery by next week. Small, regular acts of care count for more than one grand gesture."
+      ],
+      "reversed": [
+        "Reversed, hope feels out of reach. You may be discouraged, cut off from what used to inspire you, or doubting that things will improve. The reversed Star often shows up when exhaustion has quietly turned into pessimism.",
+        "The remedy is small: reconnect with one thing that brings you peace, rest properly, and allow that recovery is possible even if you cannot feel it yet. The star has not gone out; it is just hard to see from here."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Star is a clear yes, full of hope and good outcomes: things are moving in the right direction. Reversed, it becomes more of a maybe, depending on whether you can restore your faith or your energy."
+      },
+      "love": [
+        "If you are single, The Star suggests openness and optimism about love, and a connection that feels healing or inspiring. It favours being authentically yourself rather than a curated version.",
+        "In a relationship, it points to renewal after a difficult time, trust being rebuilt, and a hopeful shared future. Reversed, you may feel disillusioned or disconnected, and need to remember what drew you together."
+      ],
+      "career": [
+        "Creative work, inspiration and goals that feel meaningful are all favoured. The Star is a hopeful sign for a job search or a new direction, especially one that follows a setback.",
+        "Financially, recovery is possible. Things may improve gradually, and optimism is justified when it is paired with practical steps. Reversed, discouragement may be leading to poor decisions or to giving up too early."
+      ],
+      "advice": "Let yourself hope again. Rest, heal, and reconnect with what inspires you. The worst is behind you; now is the time to trust the future and move toward it gently.",
+      "artworkDescription": "Kneeling beside a pool with one foot in the water, a long-haired figure pours from two vessels: a gold jug into the pool and a silver jug onto the ground. Eight stars fill the navy sky, one large at the centre, and a small bird perches on a nearby branch. Unlike the traditionally nude Star figure, this one wears a blue jumpsuit.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 18,
+      "name": "The Moon",
+      "slug": "the-moon",
+      "summary": "Illusion, uncertainty, navigating by intuition in poor light.",
+      "keywords": {
+        "upright": [
+          "illusion",
+          "uncertainty",
+          "intuition",
+          "the subconscious"
+        ],
+        "reversed": [
+          "clarity",
+          "released fear",
+          "truth revealed",
+          "repressed emotion"
+        ]
+      },
+      "upright": [
+        "The traditional Moon card shows a path winding between two towers under a glowing moon, with a dog and a wolf howling and a crayfish crawling out of the water. Nothing is clearly lit. The card is about uncertainty, illusion, and the strange territory of the subconscious, where things are not quite what they seem.",
+        "Upright, it often appears when you are confused or anxious and cannot see a situation clearly. Fear may be distorting your view, or the information you have may be incomplete or misleading. The Moon asks you to rely on intuition while taking care not to mistake anxiety for insight. Move slowly, and do not make big decisions based on what you think you see in the dark.",
+        "It is also a card of dreams, imagination and emotional depth. The subconscious is not only where fears live; it is where creativity comes from. Pay attention to dreams, recurring images and gut reactions during a Moon period, but write them down and revisit them in daylight before treating them as facts."
+      ],
+      "reversed": [
+        "Reversed, the fog begins to lift. Confusion gives way to clarity, fears lose their grip, and hidden truths may come to light. It can be a real relief to finally see what was obscured.",
+        "It can also point to emotions or fears that were pushed down and are now surfacing. Let them come up. They are easier to deal with in the open than lurking just below the surface."
+      ],
+      "yesNo": {
+        "answer": "No",
+        "why": "The Moon leans no, or at least “not yet,” because the situation is not clear enough to decide. Wait for more information before committing. Reversed, clarity is on its way, so the real answer may soon be obvious."
+      },
+      "love": [
+        "Single, The Moon counsels caution about idealising someone or projecting a fantasy onto them. Take time to see who a person really is before investing heavily.",
+        "In a relationship, the card may indicate confusion, insecurity, unspoken feelings, or possible deception. Trust your intuition, but check the facts before assuming the worst. Reversed, truths surface and things become clearer."
+      ],
+      "career": [
+        "Uncertainty, unclear information or hidden agendas may be in play at work. Do not sign anything you do not fully understand. On the brighter side, the card can favour creative and intuitive work, and projects that benefit more from imagination than from hard data.",
+        "With money, be cautious. Things may not be as they appear, so avoid risky investments and read the small print. Reversed, financial confusion clears and you get a more accurate picture of where you stand."
+      ],
+      "advice": "Move slowly while the path is dark. Trust your instincts, but test your fears against the facts. Clarity will come; until then, do not make permanent decisions based on shadows.",
+      "artworkDescription": "A large moon with a sleeping human face hangs in the night sky between two stone towers. A grey wolf and a tan dog howl up at it from rocky ground, while a lobster climbs out of a dark pool at the bottom of the card. A winding gold and teal path leads from the pool toward the distant towers.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 19,
+      "name": "The Sun",
+      "slug": "the-sun",
+      "summary": "Clarity, joy, success that is visible and uncomplicated.",
+      "keywords": {
+        "upright": [
+          "joy",
+          "success",
+          "clarity",
+          "vitality"
+        ],
+        "reversed": [
+          "temporary sadness",
+          "blocked joy",
+          "overconfidence",
+          "delays"
+        ]
+      },
+      "upright": [
+        "The Sun is the brightest card in the tarot. In the traditional image a child rides a white horse beneath a radiant sun, with sunflowers leaning over a garden wall. Everything is visible, warm and uncomplicated. The card means joy, success and clarity — the kind of good fortune that does not need much interpreting.",
+        "Upright, it signals a positive period: things are going well, your energy is high, and your efforts are paying off. It favours confidence, openness and enjoying life without holding back. The Sun also brings clarity; whatever was confusing becomes plain, and the truth is out in the open.",
+        "It is a card of play and vitality, too, and the child in the image is a clue: The Sun asks you to meet life with some of the openness you had before you learned to brace for disappointment. Let yourself enjoy it; you do not need to wait for the other shoe to drop."
+      ],
+      "reversed": [
+        "Reversed, the sun is still there, just partly behind cloud. You may be dealing with a temporary setback, feeling less optimistic than usual, or struggling to enjoy things that should feel good. It rarely signals serious trouble.",
+        "It can also point to overconfidence or unrealistic expectations. The reversed Sun asks you to reconnect with simple pleasures, check what you are expecting, and remember that clouds pass. If something good is happening and you find it hard to feel, that deserves gentle attention rather than judgement; after a hard season, joy can take practice."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The Sun is the most emphatic yes in the deck: success, happiness and a good outcome are strongly indicated. Even reversed it remains a yes, though perhaps a delayed or less dramatic one than you hoped."
+      },
+      "love": [
+        "For a single person, The Sun suggests warmth and confidence that other people find attractive, and a joyful new connection. Enjoy dating without overthinking it.",
+        "In a relationship, it is a card of happiness, harmony and shared joy — sometimes celebrations, commitments or a growing family. Reversed, minor issues may be casting a shadow, but they are usually manageable."
+      ],
+      "career": [
+        "Success, recognition and well-earned confidence are highlighted at work. Projects go well and your contributions get noticed, so this is a good time to put your work in front of people. Visibility works in your favour now: apply, pitch, publish or ask.",
+        "Financially, the outlook is bright: gains, stability, a sense of having enough. Enjoy it sensibly. Reversed, there may be small delays or some overconfident spending, but the overall picture stays positive."
+      ],
+      "advice": "Enjoy it. Let yourself feel the good moment fully and share it with other people. Be confident, be open, and do not dim your light out of habit or fear.",
+      "artworkDescription": "A giant smiling sun with radiating gold beams fills the top half of the card. Below, a child in a red hat, pink cape and patterned tunic rides a white horse, holding a teal pole that flies a pink banner, with a row of sunflowers along the ground. The traditional rider is nude; this child is fully dressed.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 20,
+      "name": "Judgement",
+      "slug": "judgement",
+      "summary": "Awakening, reckoning, answering a call you have been aware of.",
+      "keywords": {
+        "upright": [
+          "awakening",
+          "reckoning",
+          "renewal",
+          "inner calling"
+        ],
+        "reversed": [
+          "self-doubt",
+          "ignoring the call",
+          "harsh self-judgement",
+          "regret"
+        ]
+      },
+      "upright": [
+        "Judgement traditionally shows an angel blowing a trumpet while figures rise from their graves with arms open. It is a card of awakening: a moment of reckoning in which you see your life clearly and hear a call to rise to something new. Unlike Justice, it is less about external consequences than about an inner summons.",
+        "Upright, it often signals a turning point where you evaluate the past, make peace with it, and decide who you want to be next. It can describe a second chance, a major decision, or the realisation that you are ready for a new chapter. Judgement asks for honesty and self-forgiveness, and for answering the call rather than letting it ring out.",
+        "It can also point to a calling in the vocational sense — work or purpose that feels as if it was meant for you. If something keeps tugging at you — a path you left behind, an ambition you shelved, a conversation you never had — Judgement suggests answering it now rather than wondering later what would have happened."
+      ],
+      "reversed": [
+        "Reversed, the call is being ignored or drowned out by self-doubt. You may be judging yourself harshly, stuck in regret, or avoiding a decision you know needs to be made. The reversed card can also indicate repeating old mistakes instead of learning from them.",
+        "The way forward is to forgive yourself, take an honest look at what the past has taught you, and step toward the change you have been putting off."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "Judgement is a yes, particularly for questions about big decisions, second chances or new directions: it suggests you are ready. Reversed, it leans no until self-doubt or unresolved regret has been dealt with."
+      },
+      "love": [
+        "If you are single, Judgement suggests reflecting on past relationships to understand what you truly want, and possibly a second chance with someone from your past. Be honest about whether the lesson has been learned before you reopen that door.",
+        "Between partners, it can mark a decision about the future, a renewed commitment, or an honest reckoning about where things stand. Reversed, blame, unresolved issues or fear of change may be holding the relationship back."
+      ],
+      "career": [
+        "Career changes, answering a calling and making important decisions are all favoured. The card can also indicate a review or evaluation, so be ready to show what you have achieved. If you have been quietly considering a change of field, the idea deserves serious attention rather than another year of deferral.",
+        "Financially, it suggests reviewing past decisions and making wiser ones going forward. Reversed, avoid repeating the same money mistakes or delaying decisions that are already overdue."
+      ],
+      "advice": "Answer the call. Look honestly at where you have been, forgive what needs forgiving, and step into the next version of yourself. You are more ready than you think.",
+      "artworkDescription": "A golden-haired angel with red and orange wings blows a long trumpet hung with two white flags marked with red crosses. Below, a woman, a child and a man rise with arms lifted from open stone coffins set against a mountain backdrop, under a dark sky dotted with stars.",
+      "updated": "2026-09-14"
+    },
+    {
+      "number": 21,
+      "name": "The World",
+      "slug": "the-world",
+      "summary": "Completion, wholeness, a cycle closing before the next begins.",
+      "keywords": {
+        "upright": [
+          "completion",
+          "fulfilment",
+          "wholeness",
+          "achievement"
+        ],
+        "reversed": [
+          "incompletion",
+          "lack of closure",
+          "delays",
+          "shortcuts"
+        ]
+      },
+      "upright": [
+        "The World is the final card of the Major Arcana. In the traditional image a dancer floats inside a laurel wreath, with four figures in the corners representing the elements. It stands for completion — the end of a long journey, a cycle fulfilled, and the sense of wholeness that comes from having done the work.",
+        "Upright, the card signals achievement and fulfilment. A project, a phase of life or a long-held goal is coming to a satisfying close, and you can finally see how far you have come. The World also suggests integration, bringing together everything learned along the way, and it often points to travel or a widening sense of the world.",
+        "Completion is not the end, though. The World hands the journey back to The Fool, and a new cycle begins. Before rushing into it, pause and properly register what you have achieved. Marking an ending — with a celebration, a reflection, or simply a moment of pride — makes it easier to carry what you learned into whatever comes next."
+      ],
+      "reversed": [
+        "Reversed, completion is delayed or elusive. You may be close to the finish line but unable to cross it, or you may have left loose ends that keep you from moving on. The reversed World can also describe looking for closure that has not come.",
+        "Sometimes it points to shortcuts that undermine the result. The remedy is to finish properly, tie up what is left, and let yourself close the chapter before starting the next."
+      ],
+      "yesNo": {
+        "answer": "Yes",
+        "why": "The World is a strong yes, promising success, fulfilment and a positive outcome. Reversed, it is closer to “not yet”: the outcome is possible, but it requires finishing what you have started."
+      },
+      "love": [
+        "Single, The World suggests you feel whole on your own and are ready for a fulfilling relationship. It can also point to meeting someone while travelling or while widening your circle.",
+        "In a relationship, it is a card of fulfilment, commitment and reaching a significant milestone together. Reversed, something may be unresolved, or you may still be waiting for closure on an old relationship."
+      ],
+      "career": [
+        "Completed projects, achieved goals and recognition are the story at work. The card can also indicate international work, or reaching a milestone you have been working toward for years. It is a good moment to gather proof of what you delivered and decide what the next ambition should be.",
+        "Financially, it suggests stability and the successful completion of a money goal. Reversed, a target may be delayed; finish what you have started before taking on something new."
+      ],
+      "advice": "Finish what you started, and celebrate it. Take stock of how far you have come, close the chapter with gratitude, and get ready for the next journey.",
+      "artworkDescription": "A smiling woman with long dark hair and a diagonal sash dances inside an oval laurel wreath tied with a pink ribbon, a short wand in each hand. In the four corners are a golden angel, a red eagle, a golden lion and a white horned bull, all set against a starry navy background.",
+      "updated": "2026-09-14"
+    }
+  ]
+}

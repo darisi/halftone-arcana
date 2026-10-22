@@ -1,0 +1,84 @@
+/* 3D card flip + shuffle animation.
+   From https://www.drawatarotcard.com — MIT licensed. */
+
+/* 3D card flip */
+.card-container {
+  position: relative;
+  perspective: 1000px;
+  aspect-ratio: 9 / 16;
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  transform-style: preserve-3d;
+  transition: transform 600ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform: rotateY(0deg);
+}
+
+.card-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+}
+
+.card-back  { transform: rotateY(0deg); }
+.card-front { transform: rotateY(180deg); }
+
+.card-inner[data-state="flipping"],
+.card-inner[data-state="revealed"]  { transform: rotateY(180deg); }
+.card-inner[data-state="returning"] { transform: rotateY(0deg); }
+
+/* Shuffle deck — four stack cards behind the main one, fanned out and
+   offset. Hidden (opacity 0) by default; visible during shuffle with
+   staggered wiggle animation that creates a "riffle" cascade. */
+.shuffle-stack {
+  position: absolute;
+  inset: 0;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 180ms ease-out;
+  transform-origin: center;
+  z-index: 1;
+}
+
+.shuffle-stack-1 { transform: rotate(-2.5deg) translateX(-3px) translateY(-1px); }
+.shuffle-stack-2 { transform: rotate(-1deg)   translateX(-1px);                 z-index: 2; }
+.shuffle-stack-3 { transform: rotate(1deg)    translateX(1px);                  z-index: 3; }
+.shuffle-stack-4 { transform: rotate(2.5deg)  translateX(3px)  translateY(1px);  z-index: 4; }
+
+.card-container[data-shuffling="true"] .shuffle-stack {
+  opacity: 1;
+  animation: shuffle-wiggle 0.6s ease-in-out;
+}
+
+.card-container[data-shuffling="true"] .shuffle-stack-1 { animation-delay: 0ms;   }
+.card-container[data-shuffling="true"] .shuffle-stack-2 { animation-delay: 40ms;  }
+.card-container[data-shuffling="true"] .shuffle-stack-3 { animation-delay: 80ms;  }
+.card-container[data-shuffling="true"] .shuffle-stack-4 { animation-delay: 120ms; }
+
+.card-container[data-shuffling="true"] .card-inner {
+  animation: shuffle-wiggle 0.6s ease-in-out;
+}
+
+@keyframes shuffle-wiggle {
+  0%   { transform: rotate(0) translateX(0); }
+  20%  { transform: rotate(-2deg) translateX(-10px); }
+  40%  { transform: rotate(1.5deg) translateX(8px); }
+  60%  { transform: rotate(-1deg) translateX(-6px); }
+  80%  { transform: rotate(0.5deg) translateX(4px); }
+  100% { transform: rotate(0) translateX(0); }
+}
