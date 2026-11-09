@@ -56,8 +56,8 @@ FNV-1a over the date string, so it's stable across rebuilds and runtimes.
 | What | Licence |
 |---|---|
 | Code (`src/`) | [MIT](LICENSE) |
-| Card meanings (`data/`) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Illustrations (`cards/`) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see the note below |
+| Card meanings (`data/`) | [CC BY 4.0](LICENSE-CC-BY-4.0) |
+| Illustrations (`cards/`) | [CC BY 4.0](LICENSE-CC-BY-4.0) — see the note below |
 
 ### An honest note on the illustrations
 
